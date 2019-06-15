@@ -36,3 +36,11 @@ http://debian.neo4j.org/
 ```
 
 http://localhost:7474/
+
+## Neo4j Bolt Driver for Python
+
+https://github.com/neo4j/neo4j-python-driver
+
+```
+% pip install neo4j
+```
